@@ -1,1 +1,1 @@
-# WebApplication2
+# Student management Server
